@@ -1,0 +1,17 @@
+#s-28570c13-e91c-45b7-be8c-a704a72b3a10 #s-Rectangle_Toptap {
+  -ms-transform: rotate(0.0deg);
+}
+#s-28570c13-e91c-45b7-be8c-a704a72b3a10 #s-Image_Cancel {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-28570c13-e91c-45b7-be8c-a704a72b3a10 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -1,0 +1,45 @@
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Rectangle_Offlinemode {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 1px 1px 1px 1px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Paragraph_head {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Ellipse_Background {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Image_Mian {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Image_Back {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Paragraph_Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 #s-Image_Exit {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-b3e83bb8-a473-43c2-bdfd-9e0adecfc440 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

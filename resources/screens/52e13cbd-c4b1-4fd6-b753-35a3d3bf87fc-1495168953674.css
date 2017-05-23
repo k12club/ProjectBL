@@ -1,0 +1,153 @@
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc > #backgroundBox {
+  background-color: #FFFFFF;
+  background-image: none;
+  position: absolute;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_ConntectionCheck {
+  position: absolute;
+  top: 584px;
+  left: 130px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 6.0pt;
+  font-family: 'Raleway-Light',Arial;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_ConntectionCheck .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_ConntectionCheck span {
+  color: #32383D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-Light',Arial;
+  font-size: 6.0pt;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_ConntectionCheck span#rtr-s-Text_ConntectionCheck_0 {
+  color: #32383D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-Light',Arial;
+  font-size: 6.0pt;
+  line-height: 0px;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Image_ConntectionCheck {
+  position: absolute;
+  top: 540px;
+  left: 148px;
+  width: 65px;
+  height: 45px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo {
+  position: absolute;
+  top: 298px;
+  left: 71px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 22.0pt;
+  font-family: 'Raleway-ExtraBold',Arial;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo span {
+  color: #FF7901;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-ExtraBold',Arial;
+  font-size: 22.0pt;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo span#rtr-s-Head_Logo_0 {
+  color: #FF7901;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-ExtraBold',Arial;
+  font-size: 22.0pt;
+  line-height: 0px;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo span#rtr-s-Head_Logo_1 {
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Raleway-ExtraBold',Arial;
+  font-size: 22.0pt;
+  line-height: 0px;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Head_Logo span#rtr-s-Head_Logo_2 {
+  color: #32383D;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Raleway-ExtraBold',Arial;
+  font-size: 22.0pt;
+  line-height: 0px;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_Logo {
+  position: absolute;
+  top: 330px;
+  left: 81px;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 14.0pt;
+  font-family: 'Raleway-Light',Arial;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_Logo .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_Logo span {
+  color: #32383D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-Light',Arial;
+  font-size: 14.0pt;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc #s-Text_Logo span#rtr-s-Text_Logo_0 {
+  color: #32383D;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Raleway-Light',Arial;
+  font-size: 14.0pt;
+  line-height: 0px;
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-52e13cbd-c4b1-4fd6-b753-35a3d3bf87fc > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

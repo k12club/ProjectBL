@@ -1,0 +1,42 @@
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Rectangle_Offlinemode {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #FFFFFF;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #FFFFFF;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #FFFFFF;
+  border-radius: 1px 1px 1px 1px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Paragraph_Detail {
+  -ms-transform: rotate(0.0deg);
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Paragraph_head {
+  -ms-transform: rotate(0.0deg);
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Ellipse_Background {
+  -ms-transform: rotate(0.0deg);
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Image_Main {
+  -ms-transform: rotate(0.0deg);
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 #s-Image_Back {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-214b2329-a202-469e-a0a8-104f0abb6ae1 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
